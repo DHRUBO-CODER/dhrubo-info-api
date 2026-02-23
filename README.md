@@ -7,149 +7,131 @@
 
 ## Example API Request  
 ```plaintext  
-https://gst-info.vercel.app/player-info?region=SG&uid=338277714  
+https://dhrubo-info-api.vercel.app/get?uid=2887682120  
 ```  
 
 ## Example Response  
 ```json  
-{  
-    "basicInfo": {  
-        "accountId": "338277714",  
-        "accountType": 1,  
-        "nickname": "Duy Vinh",  
-        "region": "VN",  
-        "level": 69,  
-        "exp": 2696267,  
-        "bannerId": 901000089,  
-        "headPic": 902000094,  
-        "rank": 323,  
-        "rankingPoints": 4703,  
-        "badgeCnt": 41,  
-        "badgeId": 1001000085,  
-        "seasonId": 45,  
-        "liked": 43010,  
-        "lastLoginAt": "1749865935",  
-        "csRank": 317,  
-        "csRankingPoints": 69,  
-        "weaponSkinShows": [  
-            907101304  
-        ],  
-        "pinId": 910002803,  
-        "maxRank": 323,  
-        "csMaxRank": 317,  
-        "accountPrefers": {  
-            "brPregameShowChoices": [  
-                1  
-            ]  
-        },  
-        "createAt": "1533628526",  
-        "title": 904090026,  
-        "externalIconInfo": {  
-            "status": "ExternalIconStatus_NOT_IN_USE",  
-            "showType": "ExternalIconShowType_FRIEND"  
-        },  
-        "releaseVersion": "OB49",  
-        "showBrRank": true,  
-        "showCsRank": true,  
-        "socialHighLightsWithBasicInfo": {}  
-    },  
-    "profileInfo": {  
-        "avatarId": 102000004,  
-        "skinColor": 33,  
-        "clothes": [  
-            205049027,  
-            214045000,  
-            203000485,  
-            204000267,  
-            211000240  
-        ],  
-        "equipedSkills": [  
-            16,  
-            5801,  
-            8,  
-            1,  
-            16,  
-            304,  
-            8,  
-            2,  
-            16,  
-            2506,  
-            8,  
-            3,  
-            16,  
-            5201  
-        ],  
-        "isSelected": true,  
-        "isSelectedAwaken": true  
-    },  
-    "clanBasicInfo": {  
-        "clanId": "3067571084",  
-        "clanName": "Rắn Độc fi5",  
-        "captainId": "1389031980",  
-        "clanLevel": 3,  
-        "capacity": 55,  
-        "memberNum": 23  
-    },  
-    "captainBasicInfo": {  
-        "accountId": "1389031980",  
-        "accountType": 1,  
-        "nickname": "Exanimateᴗ",  
-        "region": "VN",  
-        "level": 81,  
-        "exp": 7457894,  
-        "bannerId": 901029016,  
-        "headPic": 902000022,  
-        "rank": 318,  
-        "rankingPoints": 3053,  
-        "badgeCnt": 62,  
-        "badgeId": 1001000085,  
-        "seasonId": 45,  
-        "liked": 29306,  
-        "lastLoginAt": "1749843937",  
-        "csRank": 322,  
-        "csRankingPoints": 114,  
-        "weaponSkinShows": [  
-            907192607,  
-            912034003  
-        ],  
-        "pinId": 910002901,  
-        "maxRank": 318,  
-        "csMaxRank": 322,  
-        "accountPrefers": {},  
-        "createAt": "1567648917",  
-        "title": 904590058,  
-        "externalIconInfo": {  
-            "status": "ExternalIconStatus_NOT_IN_USE",  
-            "showType": "ExternalIconShowType_FRIEND"  
-        },  
-        "releaseVersion": "OB49",  
-        "showBrRank": true,  
-        "showCsRank": true,  
-        "socialHighLightsWithBasicInfo": {}  
-    },  
-    "petInfo": {  
-        "id": 1300000041,  
-        "name": "Duy　Vinh",  
-        "level": 7,  
-        "exp": 6015,  
-        "isSelected": true,  
-        "skinId": 1310000044,  
-        "selectedSkillId": 1315000012  
-    },  
-    "socialInfo": {  
-        "accountId": "338277714",  
-        "language": "Language_VIETNAMESE",  
-        "signature": "Mùa hè đã đến k12 có míc",  
-        "rankShow": "RankShow_BR"  
-    },  
-    "diamondCostRes": {  
-        "diamondCost": 390  
-    },  
-    "creditScoreInfo": {  
-        "creditScore": 100,  
-        "rewardState": "REWARD_STATE_UNCLAIMED",  
-        "periodicSummaryEndTime": "1749773520"  
-    }  
+{
+  "basicInfo": {
+    "accountId": "2887682120",
+    "accountType": 1,
+    "nickname": "—͞ᏟᎢᏀㅤDʜʀᴜʙᴏ",
+    "region": "BD",
+    "level": 64,
+    "exp": 1508286,
+    "headPic": 902000005,
+    "rank": 321,
+    "rankingPoints": 3727,
+    "badgeCnt": 62,
+    "badgeId": 1001000093,
+    "seasonId": 49,
+    "liked": 10603,
+    "lastLoginAt": "1771760059",
+    "csRank": 320,
+    "csRankingPoints": 83,
+    "weaponSkinShows": [907193303, 912000007],
+    "pinId": 910032003,
+    "maxRank": 321,
+    "csMaxRank": 320,
+    "accountPrefers": {
+      "brPregameShowChoices": [1]
+    },
+    "createAt": "1615095299",
+    "title": 904590058,
+    "externalIconInfo": {
+      "status": "ExternalIconStatus_NOT_IN_USE",
+      "showType": "ExternalIconShowType_FRIEND"
+    },
+    "releaseVersion": "OB52",
+    "showBrRank": true,
+    "showCsRank": true,
+    "socialHighLightsWithBasicInfo": {
+
+    }
+  },
+  "profileInfo": {
+    "avatarId": 102000019,
+    "skinColor": 50,
+    "clothes": [203001076, 204052000, 205000059, 211052000, 214035012],
+    "equipedSkills": [16, 7406, 8, 1, 16, 4806, 8, 2, 16, 4101, 8, 3, 16, 3506],
+    "isSelected": true,
+    "isSelectedAwaken": true,
+    "unlockType": "UnlockType_LINK",
+    "unlockTime": 1662176448
+  },
+  "clanBasicInfo": {
+    "clanId": "3092524482",
+    "clanName": "CTGCarcal",
+    "captainId": "2827661256",
+    "clanLevel": 1,
+    "capacity": 20,
+    "memberNum": 3
+  },
+  "captainBasicInfo": {
+    "accountId": "2827661256",
+    "accountType": 1,
+    "nickname": "『Øδ』ƝꫝƝᏆᏴꫝ",
+    "region": "BD",
+    "level": 64,
+    "exp": 1481480,
+    "headPic": 902052009,
+    "rank": 322,
+    "rankingPoints": 4235,
+    "hasElitePass": true,
+    "badgeCnt": 117,
+    "badgeId": 1001000093,
+    "seasonId": 49,
+    "liked": 5893,
+    "showRank": true,
+    "lastLoginAt": "1771752689",
+    "csRank": 322,
+    "csRankingPoints": 122,
+    "weaponSkinShows": [907104325, 912052001],
+    "pinId": 910002802,
+    "maxRank": 322,
+    "csMaxRank": 322,
+    "gameBagShow": 904046001,
+    "accountPrefers": {
+
+    },
+    "createAt": "1613449538",
+    "title": 904090025,
+    "externalIconInfo": {
+      "status": "ExternalIconStatus_NOT_IN_USE",
+      "showType": "ExternalIconShowType_FRIEND"
+    },
+    "releaseVersion": "OB52",
+    "showBrRank": true,
+    "showCsRank": true,
+    "socialHighLightsWithBasicInfo": {
+
+    }
+  },
+  "petInfo": {
+    "id": 1300000114,
+    "level": 4,
+    "exp": 501,
+    "isSelected": true,
+    "skinId": 1310000146,
+    "selectedSkillId": 1315000012
+  },
+  "socialInfo": {
+    "accountId": "2887682120",
+    "gender": "Gender_MALE",
+    "language": "Language_EN",
+    "modePrefer": "ModePrefer_CS",
+    "signature": "[c]❤️Tᴇʟᴇɢʀᴀᴍ:@ᴅʜʀᴜʙᴏ_x_ᴛᴄᴘ\nCᴛɢ Lɪᴋᴇ Fᴀᴍɪʟʏ❤️",
+    "rankShow": "RankShow_BR"
+  },
+  "diamondCostRes": {
+    "diamondCost": 390
+  },
+  "creditScoreInfo": {
+    "creditScore": 100,
+    "rewardState": "REWARD_STATE_UNCLAIMED",
+    "periodicSummaryEndTime": "1771817069"
+  }
 }  
 ```  
 
